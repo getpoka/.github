@@ -33,7 +33,7 @@ We build tools that put users in control — no forced accounts, no cloud sync b
 - Licensed under **Apache 2.0**
 
 #### 🔵 Poka Pro *(Coming Soon)*
-Everything in CE, plus cloud sync, AI-powered insights, and multimodal features — for users who want more without sacrificing privacy.
+Everything in CE, plus cloud sync and AI-powered features. Cloud sync is automatic, but your financial data is only shared with third-party AI providers when you actively use features like AI Chat.
 
 ---
 
