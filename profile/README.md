@@ -40,16 +40,6 @@ Everything in CE, leveled up with real-time cloud sync and AI superpowers.
 
 ---
 
-### Built with
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-</p>
-
----
-
 <p align="center">
   <sub>© POKA · Indonesia · <a href="https://getpoka.app">getpoka.app</a></sub>
 </p>
